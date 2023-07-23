@@ -1,3 +1,10 @@
+Welcome to my portfolio site.  
+
+Template 
+I did utilize the template listed below and licensing information is also attached.  Although I began with the template and enjoyed the structure and styling,  I have expanded on it to match my needs. This was just one of several amazing templates to choose from,  please see below to get more information.  
+
+_______________________________________________________________________________________________________________________
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
